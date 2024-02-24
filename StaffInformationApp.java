@@ -7,7 +7,7 @@ import javafx.scene.layout.HBox;
 import javafx.stage.Stage;
 import java.util.HashMap;
 
-public class App extends Application {
+public class StaffInformationApp extends Application {
 
     private TextField idField = new TextField();
     private TextField lastNameField = new TextField();
